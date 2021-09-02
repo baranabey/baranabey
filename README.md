@@ -40,7 +40,7 @@ let Alpsu = new CreateMan()
 Alpsu.createDay();
 ```
 ## Me :)    
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/316664288519389207?theme=dark&bg=00ff7c&animated=true&hideDiscrim=false&borderRadius=1px)](https://discord.com/users/316664288519389207)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/316664288519389207)](https://discord.com/users/316664288519389207)
 
 
 *
@@ -55,8 +55,9 @@ Alpsu.createDay();
 - ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
 
 ## 🧮 Stats
-<a href="https://github.com/baranabey/baranabey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranabey&hide=c%2B%2B,c,html&title_color=d6826d&text_color=FF00FF&icon_color=6aa6f8&bg_color=0e1116" alt="Baranabey GitHub Stats" />
+<br/>
+<a href="https://github.com/baranabey">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranabey&theme=dark&layout=compact" />
 </a>
 
 
