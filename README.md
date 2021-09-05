@@ -40,7 +40,7 @@ let baranabey = new CreateMan()
 baranabey.createDay();
 ```
 ## Me :)    
-[![Discord Presence](https://discord.c99.nl/widget/theme-4/316664288519389207.png)
+[![Discord Presence](https://discord.c99.nl/widget/theme-2/316664288519389207.png)
 
 *
 *
