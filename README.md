@@ -36,11 +36,11 @@ class CreateMan extends Baranabey {
   
 }
 
-let Alpsu = new CreateMan()
-Alpsu.createDay();
+let baranabey = new CreateMan()
+baranabey.createDay();
 ```
 ## Me :)    
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/316664288519389207)](https://discord.com/users/316664288519389207)
+[![Discord Presence](https://discord.c99.nl/widget/theme-4/316664288519389207.png)
 
 
 *
